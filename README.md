@@ -3,7 +3,7 @@
 StudyMate holo ekti study partner finding platform, jekhane students-ra tader subject onujayi partner khuje nite pare, connection request pathate pare ebong tader study session-gulo manage korte pare.
 
 ##  Live Links
-- **Frontend:** [Tomar-Firebase-Link-Ekhane]
+- **Frontend:** https://studymate-8bc38.web.app/
 - **Backend:** [https://studymate-backend-two.vercel.app/](https://studymate-backend-two.vercel.app/)
 
 ##  Tech Stack
